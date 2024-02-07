@@ -1,0 +1,19 @@
+const { cartel, mongoose, sunucu } = require('../../base/Clients/bots.client');
+const client = global.client = new cartel({
+    intents: [
+        3276799
+    ],
+});
+
+// Client Ayarları (Başlangıç)
+client.botİsmi = "Central"
+// Client Ayarları (SON)
+
+mongoose.bağlan({
+  active: true,
+  url: sistem.Database.mongoURL
+});
+sunucu.getir({ server: sistem.SUNUCU.GUILD });
+client.komutYükle();
+client.eventYükle();
+client.bağlan(sistem.TOKENLER.Central);
