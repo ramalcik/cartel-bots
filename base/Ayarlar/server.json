@@ -1,0 +1,51 @@
+﻿{
+  "TOKENLER": {
+  "Stats": "",
+  "Moderation":"MTA2MTAyNzg0ODM4ODg4NjU3OQ.GRDJ4g.RUNwzomftoR28BgiAC_eafLqb0QDw3HVZ5b434",
+  "İnvite": "MTA2MTI3MjA5MjUzMzg1NDMwMA.GseGq8.ggXmBF5Yvysxx3Oj0IxQz4vuE4ZXxCjP900WVs",
+  "Central": "MTA2MTI3MjI0MDgwNjY5NDk5Mg.Go_aGc.XLPBU3tFx_c2EvYkurea7dvgCeAqAvWKFVbiAE",
+  "Guard_1": "MTA2Mzg3NzEwOTkwNDMxMDMwMg.GWbmss.3smP7YarCvYihvqF9htHZfJ3Qwo1Gj34ipR2HE",
+  "Guard_2": "MTA2Mzg3NzQ2MTI2MTE3Njg1Mw.GSS3-F.6w74PJjOEezMLU3eT0cJ22Xm9pPjyLqFVRWQjw",
+  "Web": "MTA5Njc0NDI2MjU3OTc4NTc3OA.GStW-t.Wp-1GARIZsU4_4aiM9GQMd3Axq4r-Xb7DVXJss",
+  "Dağıtıcılar": [
+  "MTA2MTI3MjI0MDgwNjY5NDk5Mg.Go_aGc.XLPBU3tFx_c2EvYkurea7dvgCeAqAvWKFVbiAE",
+  "MTA2MTI3MjI0MDgwNjY5NDk5Mg.Go_aGc.XLPBU3tFx_c2EvYkurea7dvgCeAqAvWKFVbiAE",
+  "MTA2MTI3MjI0MDgwNjY5NDk5Mg.Go_aGc.XLPBU3tFx_c2EvYkurea7dvgCeAqAvWKFVbiAE"
+        ]
+  },
+  
+    "botSettings": {
+      "embedAltBaşlık": "cartelfx was here ? ❤️",
+      "Prefixs": [
+        ".",
+        "!"
+      ]
+    },
+  
+    "botStatus": {
+      "Status": "dnd",
+      "Name": "Anora was here ❤️",
+       "type": "WATCHING"
+    },
+      "SUNUCU": {
+      "GUILD": "1196859848516702208",
+      "GUILD_NAME": "Herakles", 
+      "VoiceChannelID": "1196897585231843389"
+    
+    },
+      "Rooter": {
+         "Users": [
+    { "isim": "anora."},
+    { "isim": "cartelfx"},
+    { "isim": "bysarok"}
+  ]
+      
+  },
+
+    "Database": {
+      "Active": true,
+      "MongoURL": "mongodb://localhost:27017/Herakles"
+    }
+  
+  
+}  

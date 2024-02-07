@@ -1,0 +1,42 @@
+{
+  "no_cartel": "cartel_red",
+  "onay_cartel": "cartel_onay",
+ "warning": "warning",
+ "unlem": "unlem",
+  "serverTag": "serverTag",
+
+  "cartelimEmojiID": "members",
+  "sarıYıldız": "sariYildiz",
+  "boostluNitro": "boostluNitro",
+  "klasikNitro": "klasikNitro",
+  "Netflix": "netflix",
+  "Spotify": "spotify",
+  "Exxen": "exxen",
+  "Youtube": "youtube",
+  "voiceDeaf": "voiceDeaf",
+  "info": "info",
+  "chat": "chat",
+  "yildiz": "yildiz",
+  "Zero": "Zero",
+  "One": "One",
+  "Two": "Two",
+  "Three": "Three",
+  "Four": "Four",
+  "Five": "Five",
+  "Six": "Six",
+  "Seven": "Seven",
+  "Eight": "Eight",
+  "Nine": "Nine",
+  
+  "Terfi": {
+    "başlangıçBar": "baslangicBar",
+    "başlamaBar": "baslamaBar",
+    "doluBar": "doluBar",
+    "doluBitişBar": "doluBitisBar",
+    "boşBar": "bosBar",
+    "boşBitişBar": "bosBitisBar",
+    "icon": "miniicon",
+    "miniicon": "miniicon"
+  }
+
+}
