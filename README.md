@@ -1,6 +1,6 @@
 # cartel-bots
 
-CARTELİN V14'E GEÇMEDEN ANORA İLE GÜNCEL KULLANDIĞI V13 BOTLARDIR WEB SİTESİNİ KURMAK İSTEYENLER `cartelfx` discord adresine veya `anora`'ya yazabilirsiniz. muck
+CARTELİN V14'E GEÇMEDEN ANORA İLE GÜNCEL KULLANDIĞI V13 BOTLARDIR WEB SİTESİNİ KURMAK İSTEYENLER `cartelfx` discord adresine veya `anora.`'ya yazabilirsiniz. muck
 
 ![image](https://cdn.discordapp.com/attachments/1035142680453316669/1204786013814259722/Screenshot_2024-02-07-17-43-29-432_com.microsoft.rdc.androidx.png?ex=65d5ff69&is=65c38a69&hm=5714a38c1f1e27af3f87e8eb860be52ed7332d13c4ac584f1cd894ad508ae954&)
 ![image](https://cdn.discordapp.com/attachments/1035142680453316669/1204786014070120518/Screenshot_2024-02-07-17-43-10-091_com.microsoft.rdc.androidx.png?ex=65d5ff69&is=65c38a69&hm=7ac801cc5dec49b314599d287013424ad2c24c2e39eb7cf8e37862039acab0e2&)
